@@ -17,6 +17,19 @@
     }
 }
 
+@media (max-width: 768px) {
+    .section-padding {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .section-padding {
+        padding: 10px;
+    }
+    /* Additional styles for extra small devices */
+}
+
 /* Responsive nav kicks in */
 @media screen and (max-width: 991px) {
     header {
