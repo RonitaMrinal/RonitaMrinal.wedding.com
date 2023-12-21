@@ -204,6 +204,8 @@ $(document).ready(function () {
         }
     });
 
+    $('#add-to-cal').html(myCalendar);
+
 
     /********************** RSVP **********************/
     $('#rsvp-form').on('submit', function (e) {
