@@ -1,3 +1,9 @@
+(function ($) {
+    "use strict";
+      $('.sakura-falling').sakura();
+})(jQuery);
+
+
 $(document).ready(function () {
 
     /***************** Waypoints ******************/

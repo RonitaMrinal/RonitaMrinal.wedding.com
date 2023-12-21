@@ -1092,3 +1092,16 @@ body.modal-open {
     width: 100%;
     height: auto;
 }
+
+.sakura {
+	/* background: -webkit-linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));
+    background: linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));*/
+	background: red;
+	pointer-events: none;
+	position: absolute
+}
+
+.sakura {
+	background: #674ea7;
+}
+
