@@ -1043,9 +1043,7 @@ header .member-actions {
 .rsvp .rsvp-form .form-input-group input:-ms-input-placeholder {
     color: #bcc1c3
 }
-.rsvp .rsvp-form .form-input-group input[type="tel"]::placeholder {
-    font-size: 12px; /* Adjust as needed */
-}
+
 
 footer .content {
     border-top: 1px solid #e6e9ea;
